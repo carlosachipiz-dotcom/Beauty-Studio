@@ -69,6 +69,30 @@ Ingresos, productos vendidos, proceso de pagos
 
 si. Toda la informacion se guarda en una baase de datos 
 
+# SALIDAS 
+
+# ¿Qué obtiene el usuario? 
+
+  La venta de un producto
+
+  resivo de costo de producto 
+
+
+# ¿Qué genera el sistema? 
+
+reportes de productos 
+
+reportes de ingreses 
+
+reporte de actividad de ventas 
+
+# ¿Permite tomar decisiones?
+
+saber ingresos mensuales
+
+controlar inventario 
+
+
 
   
   
