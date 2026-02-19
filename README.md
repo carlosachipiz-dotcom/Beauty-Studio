@@ -106,9 +106,20 @@ Los empleados, administrador, y dueño
   
   si, hay diferentes niveles de acceso 
 
+    # Información
+  
+  # ¿Qué datos son críticos?
+
+  reporte de ventas, informacion de pagos, ingresos,
+  
+• # ¿Qué no se puede perder?
+  
+  historial, de ingresos, historial de pagos, bases de datos, informacion financiera
 
 
 
+
+
   
   
   
@@ -127,4 +138,4 @@ Los empleados, administrador, y dueño
   
   
   
-  Arquitectura 
+  
