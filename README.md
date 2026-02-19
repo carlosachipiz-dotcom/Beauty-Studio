@@ -69,7 +69,13 @@ Ingresos, productos vendidos, proceso de pagos
 
 si. Toda la informacion se guarda en una baase de datos 
 
-  
+# SALIDAS 
+
+# ¿Qué obtiene el usuario? 
+
+  La venta de un producto
+
+  resivo de costo de producto 
   
   
   
