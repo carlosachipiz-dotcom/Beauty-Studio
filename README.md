@@ -92,6 +92,21 @@ saber ingresos mensuales
 
 controlar inventario 
 
+# Usuarios
+
+# ¿Quién usa el sistema?
+
+Los empleados, administrador, y dueño
+
+# ¿Todos hacen lo mismo?
+  
+  no, esta restringido cierta informaccion, solo el administrador y dueño, pueden ver toda la informacion
+
+  # ¿Hay permisos?
+  
+  si, hay diferentes niveles de acceso 
+
+
 
 
   
