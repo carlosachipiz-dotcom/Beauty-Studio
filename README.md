@@ -42,8 +42,33 @@ numeros: monto a pagar, cantidad de compras, numero de ventas
 # PROCESOS
 
  # QUE HACE EL SISTEMA CON ESTOS DATOS?
- 
-  
+
+Registrar clientes 
+
+controlar pagos
+
+organizar inventario 
+
+genera reportes
+
+# ¿Valida? 
+
+si
+
+verifica,los pagos de productos vendidos
+
+Controla el inventario, si hace falta reabastecer productos
+
+# ¿Calcula? 
+
+si 
+
+Ingresos, productos vendidos, proceso de pagos 
+
+# ¿Guarda? 
+
+si. Toda la informacion se guarda en una baase de datos 
+
   
   
   
