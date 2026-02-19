@@ -19,7 +19,7 @@ para tener una mejor atencion al cliente y administrativo.
   # Arquitectura del sistemas [ Beauty Studio ]
 
   ## Entradas (Inputs)
-¿Que datos resibe el sistema?
+# ¿Que datos resibe el sistema?
 
 Datos del producto (Nombre,Categoría,Precio de venta)
 
@@ -33,11 +33,13 @@ Informacion de pagos (cuanto, fecha, metodo de pago)
 
 los empleados o el administrador
 
-¿Son números, texto, archivos?
+# ¿Son números, texto, archivos?
 
 texto: nombre del comprador,producto a comprar,
 
 numeros: monto a pagar, cantidad de compras, numero de ventas
+
+# PROCESOS
 
  # QUE HACE EL SISTEMA CON ESTOS DATOS?
  
