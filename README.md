@@ -14,3 +14,60 @@ DE ESTE DE MANERA EFICIENTE, CON EL FIN DE EVITAR PRODUCTOS FALTANTES Y LA REDUC
 # SOLUCION OFRECIDA:
 Crear un sistema informatico que permita almacenar y registrar automaticamente las ventas y el inventario para tener un mejor control de productos y ventas,
 para tener una mejor atencion al cliente y administrativo.
+
+
+  # Arquitectura del sistemas [ Beauty Studio ]
+
+  ## Entradas (Inputs)
+¿Que datos resibe el sistema?
+
+Datos del producto (Nombre,Categoría,Precio de venta)
+
+Inventario (Cantidad disponible,)
+
+Resgistro de ventas (Producto vendido,Cantidad,Fecha)
+
+Informacion de pagos (cuanto, fecha, metodo de pago)
+
+# ¿Quién los ingresa?
+
+los empleados o el administrador
+
+¿Son números, texto, archivos?
+
+texto: nombre del comprador,producto a comprar,
+
+numeros: monto a pagar, cantidad de compras, numero de ventas
+
+ # QUE HACE EL SISTEMA CON ESTOS DATOS?
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Arquitectura 
