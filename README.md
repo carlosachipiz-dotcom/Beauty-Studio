@@ -37,7 +37,7 @@ los empleados o el administrador
 
 texto: nombre del comprador,producto a comprar,
 
-numeros: monto a pagar, cantidad de compras, numero de ventas
+numeros: monto a pagar, cantidad de compras, numero de ventas.
 
 # PROCESOS
 
@@ -76,15 +76,45 @@ si. Toda la informacion se guarda en una baase de datos
   La venta de un producto
 
   resivo de costo de producto 
+
+
+# ¿Qué genera el sistema? 
+
+reportes de productos 
+
+reportes de ingreses 
+
+reporte de actividad de ventas 
+
+# ¿Permite tomar decisiones?
+
+saber ingresos mensuales
+
+controlar inventario 
+
+# Usuarios
+
+# ¿Quién usa el sistema?
+
+Los empleados, administrador, y dueño
+
+# ¿Todos hacen lo mismo?
   
+  no, esta restringido cierta informaccion, solo el administrador y dueño, pueden ver toda la informacion
+
+  # ¿Hay permisos?
   
+  si, hay diferentes niveles de acceso 
+
+  # Información
   
+  # ¿Qué datos son críticos?
+
+  reporte de ventas, informacion de pagos, ingresos,
   
+ # ¿Qué no se puede perder?
   
-  
-  
-  
-  
+  historial, de ingresos, historial de pagos, bases de datos, informacion financiera
   
   
   
