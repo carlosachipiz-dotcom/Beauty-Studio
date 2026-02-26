@@ -154,6 +154,24 @@ Los empleados, administrador, y dueño
 
   Evaluar rentabilidad.
 
+  # ¿QUE DECISIONES PERMITIRA TOMAR?
+
+   Decidir cuándo reabastecer productos.
+
+   Evaluar cuáles productos generan más ganancias.
+
+   Detectar productos con baja rotación.
+
+   Analizar ingresos diarios, semanales o mensuales.
+
+   Controlar desempeño de ventas.
+
+   Ajustar precios si es necesario.
+
+   Planear promociones o descuentos estratégicos.
+
+   # 
+
   
 
 
