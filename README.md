@@ -186,6 +186,11 @@ Los empleados, administrador, y dueño
 
    Menor crecimiento del negocio.
 
+   # OBJETIVO GENERAL DE SISTEMAS 
+
+   Diseñar e implementar un sistema informático para Beauty Studio que permita gestionar y controlar de manera eficiente el inventario, las ventas y los pagos, garantizando     información precisa y oportuna para mejorar la administración del negocio y la toma de decisiones.
+
+
   
 
 
