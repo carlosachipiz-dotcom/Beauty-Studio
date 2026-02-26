@@ -128,6 +128,16 @@ Los empleados, administrador, y dueño
 
   Riesgo de quedarse sin productos (desabastecimiento).
 
+  # ¿A QUE NIVEL DE DECISION IMPACTA?
+
+  Registrar ventas.
+
+  Controlar inventario.
+
+  Emitir recibos.
+
+  Verificar pagos.
+
   
 
 
