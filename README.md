@@ -201,6 +201,20 @@ Los empleados, administrador, y dueño
 
   El sistema impacta principalmente el nivel administrativo (táctico), ya que permite al administrador y al dueño supervisar ventas, ingresos e inventario, facilitando el      control del negocio y la planificación a corto y mediano plazo.
 
+  # CARACTERISTICAS CRITICAS QUE DEBE CUMPLIR 
+
+  Registro automático y seguro de ventas.
+
+  Control actualizado del inventario.
+
+  Generación de reportes de ingresos y productos vendidos.
+
+  Seguridad y respaldo de la información financiera.
+
+  Control de accesos según tipo de usuario (empleado, administrador, dueño).
+
+  Precisión en los cálculos de pagos e ingresos.
+
 
 
   
