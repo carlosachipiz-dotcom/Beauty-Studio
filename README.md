@@ -190,6 +190,13 @@ Los empleados, administrador, y dueño
 
    Diseñar e implementar un sistema informático para Beauty Studio que permita gestionar y controlar de manera eficiente el inventario, las ventas y los pagos, garantizando     información precisa y oportuna para mejorar la administración del negocio y la toma de decisiones.
 
+  # OBEJETIVOS ESPECIFICOS 
+
+   1. Automatizar el registro de ventas y pagos para reducir errores manuales y asegurar un control financiero confiable.
+
+   2. Controlar el inventario en tiempo real para evitar desabastecimientos y mejorar la planificación de reposición de productos.
+
+
 
   
 
