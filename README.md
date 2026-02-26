@@ -215,6 +215,16 @@ Los empleados, administrador, y dueño
 
   Precisión en los cálculos de pagos e ingresos.
 
+  # ¿QUE DECISION PERMITIRA TOMAR?
+
+  Determinar cuándo reabastecer productos.
+
+  Identificar cuáles productos generan mayores ganancias.
+
+  Evaluar los ingresos mensuales del negocio.
+
+  Planificar promociones o estrategias para aumentar ventas.
+
 
 
   
