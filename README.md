@@ -138,6 +138,22 @@ Los empleados, administrador, y dueño
 
   Verificar pagos.
 
+  Supervisar ventas diarias.
+
+  Controlar ingresos.
+
+  Revisar reportes.
+
+  Detectar productos más vendidos.
+
+  Analizar ingresos mensuales.
+
+  Tomar decisiones de inversión.
+
+  Planificar crecimiento del negocio.
+
+  Evaluar rentabilidad.
+
   
 
 
