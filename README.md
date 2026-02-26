@@ -170,7 +170,21 @@ Los empleados, administrador, y dueño
 
    Planear promociones o descuentos estratégicos.
 
-   # 
+   # ¿QUE PASARIA SI NO EXISTIERA SISTEMA?
+
+   Habría desorden en inventario.
+
+   Mayor riesgo de pérdidas económicas.
+
+   Errores frecuentes en cálculos de ingresos.
+
+   Pérdida de información importante (historial de ventas y pagos).
+
+   Falta de datos para tomar decisiones estratégicas.
+
+   Mala atención al cliente por falta de productos.
+
+   Menor crecimiento del negocio.
 
   
 
