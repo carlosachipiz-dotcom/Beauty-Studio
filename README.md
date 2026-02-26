@@ -116,6 +116,20 @@ Los empleados, administrador, y dueño
   
   historial, de ingresos, historial de pagos, bases de datos, informacion financiera
 
+  # ¿QUE PROBLEMA SOLUCIONA?
+
+  Falta de control en el inventario.
+
+  Errores manuales en el registro de ventas.
+
+  Pérdida o desorganización de información financiera.
+
+  Desconocimiento de ingresos reales.
+
+  Riesgo de quedarse sin productos (desabastecimiento).
+
+  
+
 
 
 
