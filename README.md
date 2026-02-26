@@ -223,7 +223,7 @@ Los empleados, administrador, y dueño
 
   Evaluar los ingresos mensuales del negocio.
 
-  Planificar promociones o estrategias para aumentar ventas.
+  Planificar promociones o estrategias para aumentar ventas..
 
 
 
