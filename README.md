@@ -197,6 +197,11 @@ Los empleados, administrador, y dueño
    2. Controlar el inventario en tiempo real para evitar desabastecimientos y mejorar la planificación de reposición de productos.
 
 
+  # NIVEL DE DECISION PRINCIPAL QUE IMPACTA 
+
+  El sistema impacta principalmente el nivel administrativo (táctico), ya que permite al administrador y al dueño supervisar ventas, ingresos e inventario, facilitando el      control del negocio y la planificación a corto y mediano plazo.
+
+
 
   
 
