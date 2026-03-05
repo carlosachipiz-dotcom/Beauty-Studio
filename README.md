@@ -14,3 +14,4 @@ DE ESTE DE MANERA EFICIENTE, CON EL FIN DE EVITAR PRODUCTOS FALTANTES Y LA REDUC
 # SOLUCION OFRECIDA:
 Crear un sistema informatico que permita almacenar y registrar automaticamente las ventas y el inventario para tener un mejor control de productos y ventas,
 para tener una mejor atencion al cliente y administrativo.
+<img width="267" height="650" alt="image" src="https://github.com/user-attachments/assets/722e4ebe-845f-4c6e-bf80-e6f7fe230162" />
