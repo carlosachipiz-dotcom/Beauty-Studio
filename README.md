@@ -225,10 +225,10 @@ Los empleados, administrador, y dueño
 
   Planificar promociones o estrategias para aumentar ventas..
 
-  #DIAGRAMA-DE-FLUJO-REGISTRO
+  #DIAGRAMA-DE-FLUJO-COMPRAS
   ![WhatsApp Image 2026-04-09 at 5 45 44 PM](https://github.com/user-attachments/assets/be1e45c5-a73d-4af0-8da2-795356890a2d)
 
-  #DIAGRAMA DE FLUJO REGISTRO 2 
+  #DIAGRAMA DE FLUJO REGISTRO 
   <img width="567" height="683" alt="image" src="https://github.com/user-attachments/assets/bc9825b7-80dc-4683-8631-43c310119efd" />
 
 
