@@ -231,6 +231,10 @@ Los empleados, administrador, y dueño
   #DIAGRAMA DE FLUJO REGISTRO 
   <img width="567" height="683" alt="image" src="https://github.com/user-attachments/assets/bc9825b7-80dc-4683-8631-43c310119efd" />
 
+  #DIAGRAMA DE FLUJO LOGIN 
+  <img width="705" height="508" alt="WhatsApp Image 2026-04-16 at 4 35 37 PM (1)" src="https://github.com/user-attachments/assets/e332cbb3-2c5c-4192-9a89-c1ec7aa8a598" />
+
+
 
 
 
